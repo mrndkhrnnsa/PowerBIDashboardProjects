@@ -26,6 +26,13 @@ Each project demonstrates my skills in data cleaning, modeling, DAX calculations
 - **Preview:**
   ![Superstore Dashboard](Superstore/Dashboard.png)
 
+### 3. 
+- **Objective:** Evaluate customer satisfaction and sentiment across multiple ticketing systems to uncover performance strengths and improvement areas.
+- **Key Features:** CSAT, CES, and NPS metrics; sentiment analysis on text feedback; system comparison; category-based rating breakdowns.
+- **Impact:** Enables service optimization, improves customer loyalty, and supports data-driven decisions for enhancing customer experience.
+- **Preview:**
+  ![Customer Satisfaction Dashboard](Ticket_System_Review/Page1_OverallReview.png)
+
 ## 🧰 Tools & Technologies
 - **Power BI**: For dashboard design, DAX modeling, interactivity.
 - **Power Query (M)**: For data transformation and cleanup.
