@@ -31,7 +31,7 @@ Each project demonstrates my skills in data cleaning, modeling, DAX calculations
 - **Key Features:** CSAT, CES, and NPS metrics; sentiment analysis on text feedback; system comparison; category-based rating breakdowns.
 - **Impact:** Enables service optimization, improves customer loyalty, and supports data-driven decisions for enhancing customer experience.
 - **Preview:**
-  ![Customer Satisfaction Dashboard](Ticket_System_Review/Page1_OverallReview.png)
+  ![Customer Satisfaction Dashboard](Ticket%20System%20Review/Page1_OverallReview.png)
 
 ## 🧰 Tools & Technologies
 - **Power BI**: For dashboard design, DAX modeling, interactivity.
